@@ -1,1 +1,1 @@
-Added a column for title using mySQL migration and adding a background.
+Added a column for title using mySQL migration and added a background.
